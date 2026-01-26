@@ -14,6 +14,8 @@ CRN 32738
 
 [ODU Spring 2026 academic schedule](https://www.odu.edu/academics/calendar/spring)
 
+[Resources discussed in slides](resources.md)
+
 * Week 01: Jan 26 Course Intro, What's Grad School All About?
   * Git/GitHub [1](https://guides.github.com/introduction/git-handbook/), [2](https://www.youtube.com/watch?v=0fKg7e37bQE#t=4m20s), [3](https://rogerdudler.github.io/git-guide/)
   * Markdown [1](https://guides.github.com/features/mastering-markdown/), [2](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
