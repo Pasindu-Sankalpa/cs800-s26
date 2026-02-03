@@ -5,7 +5,7 @@ This is my submission for Assignment 2.
 ## Google Scholar
 [https://scholar.google.com/citations?user=QKP5tuwAAAAJ](https://scholar.google.com/citations?user=QKP5tuwAAAAJ)
 
-![Google Scholar](images\Google_scholar.PNG)
+![Google Scholar](images/Google_scholar.PNG)
 
 ### Some of ODU CS Faculty, I'm Following on Google Scholar
 1. Dr.Ravi Mukkamala
